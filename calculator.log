@@ -1,0 +1,10 @@
+[INFO] 04-16-2022 22:11:54 calculator.Calculator Factorial of the number : 5.0
+ Result is : 120.0
+[INFO] 04-16-2022 22:12:03 calculator.Calculator The Square Root of : 7.0
+ Result : 2.6457513110645907
+[INFO] 04-16-2022 22:12:07 calculator.Calculator The Square Root of : -5.0
+ Result : NaN
+[INFO] 04-16-2022 22:12:12 calculator.Calculator The power of : 3.0 raised to 4.0
+ Result is : 81.0
+[INFO] 04-16-2022 22:12:20 calculator.Calculator The power of : 3.0 raised to -4.0
+ Result is : 0.012345679012345678
